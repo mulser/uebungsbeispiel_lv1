@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/uebungsbeispiel_lv1.iml" filepath="$PROJECT_DIR$/uebungsbeispiel_lv1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Grundlagen_der_Software_Entwicklung/uebungsbeispiel_lv1/uebungsbeispiel_lv1.iml" filepath="$PROJECT_DIR$/../../Grundlagen_der_Software_Entwicklung/uebungsbeispiel_lv1/uebungsbeispiel_lv1.iml" />
     </modules>
   </component>
 </project>
